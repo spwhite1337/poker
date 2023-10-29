@@ -1,0 +1,11 @@
+*.pyc
+*.iml
+*.xml
+.idea/
+*.egg-info
+.ipynb_checkpoints/
+*.pkl
+data/
+*.ipynb
+docs/
+notebooks/
